@@ -1,0 +1,4 @@
+School_id,Student_id,Student_number,State_id,Last_name,Middle_name,First_name,Grade,Gender,Dob,Race,Hispanic_Latino,Ell_status,Frl_status,Iep_status,Student_street,Student_city,Student_state,Student_zip,Student_email,Contact_relationship,Contact_type,Contact_name,Contact_phone,Contact_email,Username,Password
+163,123,,,One,,Test,Kindergarten,M,9/11/12,W,N,Y,,N,7808 Cherry Creek South Dr # 3-300,Denver,CO,80231,0,0,0,0,0,0,test.one,peak
+163,456,,,Two,,Test,Prekindergarten,F,8/4/13,W,Y,N,,N,7808 Cherry Creek South Dr # 3-300,Denver,CO,80231,0,0,0,0,0,0,test.two,peak
+163,789,,,Three,,Test,2,M,12/19/09,B,N,Y,,N,7808 Cherry Creek South Dr # 3-300,Denver,CO,80231,0,0,0,0,0,0,test.thr,peak

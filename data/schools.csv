@@ -1,0 +1,4 @@
+School_id,School_name,School_number,State_id,Low_grade,High_grade,Principal,Principal_email,School_address,School_city,School_state,School_zip,School_phone
+163,Rocky Mountain Prep Creekside,278,CO,PK,5,Austen Kassinger,akassinger@rockymountainprep.org,7808 Cherry Creek South Dr # 3-300,Denver,CO,80231,(720)863-8920
+184,Rocky Mountain Prep Southwest,321,,PK,5,Jennifer Reese,jreese@rockymountainprep.org,911 S. Hazel Ct.,Denver,CO,80219,(720)863-8920
+7233,Rocky Mountain Prep - Fletcher Campus,919,CO,,5,,,10455 E 25th Avenue,Aurora,CO,80010,(303)343-1707

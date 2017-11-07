@@ -14,3 +14,5 @@ done < classData.csv
 python studentAssess.py | sed 's/ , /,/g' > studentData.csv
 $gam csv studentData.csv gam course ~Alias add student ~Student_email
 rm alias.csv
+rm classData.csv
+rm studentData.csv
