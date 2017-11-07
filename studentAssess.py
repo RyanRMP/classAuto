@@ -1,4 +1,12 @@
+aliasDict = {}
 studentDict = {}
+
+
+aliases = open('alias.csv',"r")
+for alias in aliases:
+	data = alias.split(",")
+	aliasDict[data[1].rsplit()[0]] = data[0]
+aliases.close()
 
 students = open('data/students.csv', "r")
 for student in students:
@@ -14,6 +22,6 @@ for enrollment in enrollments:
 	studentId = data[2].rsplit()[0]
 	sectionId = data[1]
 	if 'Section' in enrollment:
-		print "Section_id,Student_id,Student_email"
+		print "Alias,Student_email"
 		continue
-	print sectionId,",",studentId,",",studentDict[studentId]
+	print aliasDict[sectionId],",",studentDict[studentId]
